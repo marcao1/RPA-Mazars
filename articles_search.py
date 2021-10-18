@@ -108,7 +108,7 @@ df.to_excel(excel_path, index=False)
 # create email
 #login, password = get_credentials("HSE")   # could be setup manually
 login = 'mpyokhl@edu.hse.ru'
-password = '55W1qkjD#M'
+password = 'xxxxx'
 mail = EmailMessage()
 mail['From'] = login
 mail['To'] = receiver
