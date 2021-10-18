@@ -1,3 +1,3 @@
-query = "RPA impact"
+query = "Blockchain"
 num_page = 2
-receiver = "Dmitry.Fedorov@mazars.ru"
+receiver = "mpyokhl@edu.hse.ru"
