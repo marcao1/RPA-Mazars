@@ -1,2 +1,2 @@
 # RPA-Mazars
-Created a PowerBI dashboard as a homework for the course "Research Seminar"
+Created a Webscraper with Selenium as a homework for the course "Research Seminar"
